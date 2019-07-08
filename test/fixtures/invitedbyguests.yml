@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  guestinvitation: one
+  guest: one
+  status: MyString
+
+two:
+  guestinvitation: two
+  guest: two
+  status: MyString

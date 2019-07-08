@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  owner: one
+  guest: one
+  status: MyString
+
+two:
+  owner: two
+  guest: two
+  status: MyString
